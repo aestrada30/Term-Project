@@ -16,3 +16,4 @@ In order to be able to run the base game begin by following the instructions on 
 
 ### How to run on Mac OS
 1. Begin by downloading each of the **.cpp** and **.h** files
+2. djdjd
