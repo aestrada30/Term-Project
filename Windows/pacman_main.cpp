@@ -74,6 +74,7 @@ char GRID[NUM_ROWS][NUM_COLS] =
         {'2','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','H','4'},  //   31
 };
 
+//     Map Notes:
 
 //     Define wall types:
 //     plain wall                     W
