@@ -1,5 +1,5 @@
 # Term-Project
-## A* Search Algorithm
+### A* Search Algorithm
 ### Group Members:
   Alex Estrada, Kyle Nadeau, Wes Hardesky
   
@@ -15,5 +15,8 @@ The functionality of A* is to find the shortest path between a starting coordina
 In order to be able to run the base game begin by following the instructions on either the [64-bit](https://github.com/djperrone/glew_glut_64) or [32-bit](https://github.com/djperrone/opengl_glew_glut_starter) link.  Once the *csc406setup* project is setup, replace the code in the main file with the game code and run the program.
 
 ### How to run on Mac OS
-1. Begin by downloading each of the **.cpp** and **.h** files
-2. djdjd
+1. First, make sure you have Xcode installed on your Mac with the necessary packages to run it.  You can install Xcode through the app store.
+2. Create a directory in Xcode 
+3. In the main project window, add GLUT.framework and OpenGL.framework to the Frameworks and Libraries in order to utilize GLUT and OpenGL in this directory.
+4. Download each of the **.cpp** and **.h** files for Mac-OS and add them to your directory
+5. Click on the Product tab at the top of the screen and select Run to launch the program
