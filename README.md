@@ -1,4 +1,4 @@
-# Term-Project
+# PAC MAN Replica - CSC 212 Term Project (A* Search)
 ### A* Search Algorithm
 ### Group Members:
   Alex Estrada, Kyle Nadeau, Wes Hardesky
